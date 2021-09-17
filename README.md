@@ -2,7 +2,7 @@
 
 <h1 align="center">Hangfire Speakeasy Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://tomaserudito.github.io/other_speakeasy/)
 
 <p>This is the website created for a restaurant called Hangfire. They are hosting a new series of events under the name “Hangfire Speakeasy”. These events are special events where they create special food and drinks menus for each event.</p>
 <br/>
@@ -33,9 +33,11 @@
 <p>This was the proposed design for the different pages.</p>
 
 <br/>
-<img src="assets/images/readme_images/home_mobile.png" style="max-width="30%">
-<img src="assets/images/readme_images/menu_mobile.png">
-<img src="assets/images/readme_images/events_mobile.png">
+<div style="width:100%;">
+<img src="assets/images/readme_images/home_mobile.png" width="32%">
+<img src="assets/images/readme_images/menu_mobile.png" width="32%">
+<img src="assets/images/readme_images/events_mobile.png" width="32%">
+</div>
 <br/>
 <br/>
 
